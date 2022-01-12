@@ -24,7 +24,7 @@ kombu==3.0.37
 lxml==4.4.1
 meld3==1.0.2
 parsel==1.5.2
-pipenv==2018.11.26
+pipenv==2022.1.8
 psycopg2-binary==2.8.3
 pyasn1==0.4.6
 pyasn1-modules==0.2.6
